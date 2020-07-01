@@ -1,0 +1,23 @@
+.img { 
+      width:100%;
+      margin:10px 15px 10px 30px ;
+     }
+.kiri{
+      float:left;
+     }
+.kanan{
+       float:right;
+      }
+.kotak{
+       border:1px dashed blue;
+       border-radius:20px;
+       background-color:blue ;
+       text-align: center;
+       margin: 3px;
+       font-family: cursive;
+       color:white ;
+      }
+.kicik{
+       font-size: 10px ;
+       float:right ;
+       color:lightblue;}
